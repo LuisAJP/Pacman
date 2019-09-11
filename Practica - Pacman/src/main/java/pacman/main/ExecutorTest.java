@@ -8,7 +8,7 @@ import pacman.controllers.KeyBoardInput;
 import pacman.controllers.MsPacManRandom;
 import pacman.controllers.PacmanController;
 
-//Luis Jaramillo
+//luis
 public class ExecutorTest {
 	public static void main(String[] args) {
 		Executor executor = new Executor.Builder().setTickLimit(4000).setVisual(true).setScaleFactor(2.0).build();
